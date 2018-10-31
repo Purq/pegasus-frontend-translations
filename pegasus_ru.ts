@@ -266,7 +266,7 @@
         <location filename="../src/frontend/SplashScreen.qml" line="53"/>
         <source>games
 found</source>
-        <translation type="найдены Игры></translation>
+        <translation type="найдены Игры"></translation>
     </message>
     <message>
         <location filename="../src/frontend/SplashScreen.qml" line="87"/>
